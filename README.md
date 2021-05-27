@@ -1,2 +1,2 @@
-# AR_maze
+# AR maze
  ...
